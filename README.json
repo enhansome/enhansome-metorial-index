@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T22:52:05Z",
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36268
+            "stars": 36271
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-19T09:52:38Z",
+            "last_commit": "2026-08-19T12:31:16Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32347
+            "stars": 32349
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T15:50:21Z",
             "owner": "yamadashy",
             "repo": "repomix",
-            "stars": 27953
+            "stars": 27956
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 665613753,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:39:01Z",
+            "last_commit": "2026-08-19T10:06:42Z",
             "owner": "elie222",
             "repo": "inbox-zero",
-            "stars": 12032
+            "stars": 12033
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T18:06:57Z",
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7267
+            "stars": 7268
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 911256711,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:51:51Z",
+            "last_commit": "2026-08-19T12:28:56Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 4181
+            "stars": 4205
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89682
+            "stars": 89684
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89682
+            "stars": 89684
           }
         },
         {
@@ -633,10 +633,10 @@
             "archived": false,
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T08:23:48Z",
+            "last_commit": "2026-08-19T11:32:56Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 66457
+            "stars": 66465
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-17T22:52:05Z",
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36268
+            "stars": 36271
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-18T18:06:57Z",
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7267
+            "stars": 7268
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-08-18T18:06:57Z",
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7267
+            "stars": 7268
           }
         },
         {
@@ -723,10 +723,10 @@
             "archived": false,
             "id": 911256711,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:51:51Z",
+            "last_commit": "2026-08-19T12:28:56Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 4181
+            "stars": 4205
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2599
+            "stars": 2601
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2026-08-17T20:05:03Z",
             "owner": "perplexityai",
             "repo": "modelcontextprotocol",
-            "stars": 2457
+            "stars": 2458
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-05-01T03:39:08Z",
             "owner": "Rudra-ravi",
             "repo": "wikipedia-mcp",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -1461,7 +1461,7 @@
             "last_commit": "2026-02-19T10:18:35Z",
             "owner": "andybrandt",
             "repo": "mcp-simple-arxiv",
-            "stars": 200
+            "stars": 199
           }
         },
         {
@@ -2546,6 +2546,21 @@
         },
         {
           "node_type": "item",
+          "title": "A11y MCP Server - Perform accessibility audits on webpages and generate detailed reports and summaries that comply with WCAG standards. Integrate the findings into an AI-assisted workflow to fix accessibility issues efficiently.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 962614077,
+            "language": "JavaScript",
+            "last_commit": "2026-03-22T15:23:46Z",
+            "owner": "priyankark",
+            "repo": "a11y-mcp",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Tavily Search - Perform web searches and retrieve information using the Tavily API, returning results in text format along with AI responses, URIs, and titles.",
           "description": null,
           "children": [],
@@ -2586,21 +2601,6 @@
             "last_commit": "2025-05-07T02:15:54Z",
             "owner": "code-yeongyu",
             "repo": "perplexity-advanced-mcp",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A11y MCP Server - Perform accessibility audits on webpages and generate detailed reports and summaries that comply with WCAG standards. Integrate the findings into an AI-assisted workflow to fix accessibility issues efficiently.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 962614077,
-            "language": "JavaScript",
-            "last_commit": "2026-03-22T15:23:46Z",
-            "owner": "priyankark",
-            "repo": "a11y-mcp",
             "stars": 49
           }
         },
@@ -8712,7 +8712,7 @@
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89682
+            "stars": 89684
           }
         },
         {
@@ -9873,7 +9873,7 @@
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89682
+            "stars": 89684
           }
         },
         {
@@ -9888,7 +9888,7 @@
             "last_commit": "2026-08-17T22:52:05Z",
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36268
+            "stars": 36271
           }
         },
         {
@@ -9903,7 +9903,7 @@
             "last_commit": "2026-08-19T04:54:25Z",
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22786
+            "stars": 22787
           }
         },
         {
@@ -9933,7 +9933,7 @@
             "last_commit": "2025-04-24T21:49:44Z",
             "owner": "BrowserMCP",
             "repo": "mcp",
-            "stars": 6989
+            "stars": 6990
           }
         },
         {
@@ -11949,7 +11949,7 @@
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89682
+            "stars": 89684
           }
         },
         {
@@ -13710,7 +13710,7 @@
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89682
+            "stars": 89684
           }
         },
         {
@@ -13725,7 +13725,7 @@
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89682
+            "stars": 89684
           }
         },
         {
@@ -13740,7 +13740,7 @@
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89682
+            "stars": 89684
           }
         },
         {
@@ -13752,10 +13752,10 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-19T09:52:38Z",
+            "last_commit": "2026-08-19T12:31:16Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32347
+            "stars": 32349
           }
         },
         {
@@ -13800,7 +13800,7 @@
             "last_commit": "2026-08-18T15:21:29Z",
             "owner": "zereight",
             "repo": "gitlab-mcp",
-            "stars": 1902
+            "stars": 1903
           }
         },
         {
@@ -13860,7 +13860,7 @@
             "last_commit": "2026-08-17T03:42:26Z",
             "owner": "nulab",
             "repo": "backlog-mcp-server",
-            "stars": 225
+            "stars": 226
           }
         },
         {
@@ -13917,7 +13917,7 @@
             "archived": false,
             "id": 962885305,
             "language": "Go",
-            "last_commit": "2026-08-19T04:34:00Z",
+            "last_commit": "2026-08-19T12:34:20Z",
             "owner": "goern",
             "repo": "forgejo-mcp",
             "stars": 117
@@ -15978,7 +15978,7 @@
             "archived": false,
             "id": 573661753,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:52:30Z",
+            "last_commit": "2026-08-19T12:15:48Z",
             "owner": "activepieces",
             "repo": "activepieces",
             "stars": 23888
@@ -16011,7 +16011,7 @@
             "last_commit": "2026-07-29T05:28:03Z",
             "owner": "AminForou",
             "repo": "mcp-gsc",
-            "stars": 1372
+            "stars": 1373
           }
         },
         {
@@ -16113,7 +16113,7 @@
             "archived": false,
             "id": 949456378,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:42:59Z",
+            "last_commit": "2026-08-19T12:38:13Z",
             "owner": "1mcp-app",
             "repo": "agent",
             "stars": 486
@@ -16143,7 +16143,7 @@
             "archived": false,
             "id": 954762768,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:57:20Z",
+            "last_commit": "2026-08-19T10:21:05Z",
             "owner": "chrisdoc",
             "repo": "hevy-mcp",
             "stars": 420
@@ -19529,8 +19529,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:58:31.884Z",
+    "last_updated": "2026-08-19T12:40:46.061Z",
     "original_repository": "metorial/metorial-index",
+    "original_repository_id": 996697140,
     "original_repository_sha": "2a218bf7b265953b9598f968c9826f6a74180fec",
     "enhanced_repository": "enhansome/enhansome-metorial-index",
     "enhanced_repository_description": null,
